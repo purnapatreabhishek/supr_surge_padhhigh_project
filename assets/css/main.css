@@ -36,7 +36,7 @@
     22. preloder
 
 -----------------------------------------------------------------------------------*/
-@import url("../../../../../external.html?link=https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&amp;family=Rajdhani:wght@300;400;500;600;700&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&amp;family=Rajdhani:wght@300;400;500;600;700&amp;display=swap");
 @-webkit-keyframes zoom {
   0% {
     -webkit-transform: scale(1);
@@ -1836,7 +1836,7 @@ h6 {
       line-height: 22px;
       font-family: "Rajdhani", sans-serif; }
     .main-menu ul li.menu-item-has-children > a::after {
-      
+      content: "+";
       font-size: 16px;
       -webkit-transform: translateY(-1px);
       -ms-transform: translateY(-1px);
