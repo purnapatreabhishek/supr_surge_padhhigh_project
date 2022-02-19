@@ -1956,7 +1956,7 @@ h6 {
   padding: 16px 35px;
   text-align: center;
   color: #ffffff;
-  background: #265EC2;
+  background: #5e17eb;
   display: inline-block;
   line-height: 1.4;
   -webkit-transition: 0.3s;
@@ -1974,9 +1974,9 @@ h6 {
     background-color: #58D8C4;
     color: #ffffff; }
   .thm_btn-2 {
-    background-color: #58D8C4; }
+    background-color: #5e17eb; }
     .thm_btn-2:hover {
-      background-color: #265EC2; }
+      background-color: #58D8C4; }
 
 .btns a {
   margin-right: 20px;
